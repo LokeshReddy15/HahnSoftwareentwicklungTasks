@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "133A0B28-4864-4DE9-8702-772C86F99960"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E91A570-8CAD-49A2-898F-E3860B76DDBE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HahnSoftwareentwicklungTasks/Helpers/LocationSingleton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "updateLocation(currentLocation:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18CE18D1-CF38-4311-91D6-001AFBF346B0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HahnSoftwareentwicklungTasks/Helpers/LocationSingleton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F861EDC-A2AB-4216-B030-680F5705A3E8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HahnSoftwareentwicklungTasks/Helpers/LocationSingleton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "LocationSingleton"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9F861EDC-A2AB-4216-B030-680F5705A3E8 - c833d1f6dfa7fb7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HahnSoftwareentwicklungTasks.LocationSingleton.lastLocation.getter : Swift.Optional&lt;__C.CLLocation&gt;"
+                  moduleName = "HahnSoftwareentwicklungTasks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghurammahathi/Desktop/GermanTask/HahnSoftwareentwicklungTasks/HahnSoftwareentwicklungTasks/Helpers/LocationSingleton.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "9F861EDC-A2AB-4216-B030-680F5705A3E8 - ff48fc7019fecbc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HahnSoftwareentwicklungTasks.LocationSingleton.lastLocation.setter : Swift.Optional&lt;__C.CLLocation&gt;"
+                  moduleName = "HahnSoftwareentwicklungTasks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghurammahathi/Desktop/GermanTask/HahnSoftwareentwicklungTasks/HahnSoftwareentwicklungTasks/Helpers/LocationSingleton.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "9F861EDC-A2AB-4216-B030-680F5705A3E8 - 32c8f90fc1ded803"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HahnSoftwareentwicklungTasks.LocationSingleton.lastLocation.modify : Swift.Optional&lt;__C.CLLocation&gt;"
+                  moduleName = "HahnSoftwareentwicklungTasks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghurammahathi/Desktop/GermanTask/HahnSoftwareentwicklungTasks/HahnSoftwareentwicklungTasks/Helpers/LocationSingleton.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "9F861EDC-A2AB-4216-B030-680F5705A3E8 - e4274212966a9004"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HahnSoftwareentwicklungTasks.LocationSingleton.lastLocation.modify : Swift.Optional&lt;__C.CLLocation&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "HahnSoftwareentwicklungTasks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raghurammahathi/Desktop/GermanTask/HahnSoftwareentwicklungTasks/HahnSoftwareentwicklungTasks/Helpers/LocationSingleton.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
